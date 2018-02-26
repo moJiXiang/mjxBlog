@@ -2,16 +2,12 @@
 ### HTML5 & CSS3
 1. 对CSS3新技术有深入的理解，并能够很好的应用，对于阴影、边框等CSS3基本效果运用自如，对于CSS3三维立体变形以及过渡、动画掌握熟练。能够书写出适用于多个移动平台的CSS3渐变效果。
 2. 精通WEB APP中的自适应布局和响应式布局，能够制作出适应各个终端的页面。
-3. 精通HTML5视音频操作、本地存储、地理位置、重力感应等最新功能。
-4. 了解Canvas的基本原理，能够实现简单图形、动画的绘制。
-5. 了解HTML5拖拽、离线缓存、WEB WORKER、WEB SOCKET等相关技术。
+3. 熟练掌握CSS3的Flex布局。
+4. 熟练使用Sass, Less等CSS预处理器。
 
 ### JavaScript：
-1. 熟练掌握JavaScript语言，具备良好的编程思想。
-2. 能够娴熟使用原生JavaScript语言书写瀑布流、大图滚动、拖拽、动态表单等多种网页常见效果。对作用域、作用域链、this、事件、闭包、回调等JavaScript理论知识有深入的理解。
-3. 能够熟练使用JQuery框架，实现原生JavaScript效果、制作各种动画效果、处理不同浏览器的事件兼容问题。
-4. 熟练使用Angular, Vue框架。
-5. 熟练使用electron框架，能够开发适用于Mac, Windows, linux平台的桌面软件。
+1. 熟练使用Vue，React框架，掌握其架构思想。
+2. 熟练使用electron框架，能够开发适用于Mac, Windows, linux平台的桌面软件。
 
 ### 后台语言：
 1. 熟练nodejs, 熟练egg.js, express, koa等nodejs框架。
@@ -21,11 +17,14 @@
 
 
 ### 开发工具：
-1. 熟练地使用PhotoShop对设计师提供的PSD等美工图进行各种操作。
+1. 熟练地使用Sketch结合其插件进行网页设计。
 2. 熟悉使用GitHub等版本管理工具来进行团队合作项目的管理。
 3. 使用Postman进行接口调试。
 4. 熟练使用Chrome, Firefox开发者工具和响应式工具。
 5. 熟练使用Gitlab的runner来创建脚本工具进行一键部署。
+
+### 小程序开发
+1. 能够独立完成小程序的开发。
 
 ### 项目经验：
 ##### [越野中国](http://www.onway.cc/)
